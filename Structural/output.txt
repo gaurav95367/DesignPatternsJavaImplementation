@@ -1,0 +1,3 @@
+beverage description =coffee| beverage Price=1
+beverage description =coffee + cream| beverage Price=11
+beverage description =coffee + cream + caramel| beverage Price=31
