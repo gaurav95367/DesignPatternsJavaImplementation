@@ -1,0 +1,3 @@
+interface IShirtTailor {
+    void createShirt();
+}
