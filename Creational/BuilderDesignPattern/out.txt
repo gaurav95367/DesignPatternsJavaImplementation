@@ -1,0 +1,17 @@
+floorPlan = built Wood floor plan
+electrictyPlan = build Wood electricty plan
+pillars = build Wood pillars
+ceiling = built Wood celing
+tiles = built Wood tiles
+plaster = built Wood plaster
+paint = built Wood paint
+furniture = built Wood furniture
+===================
+floorPlan = built ice floor plan
+electrictyPlan = build ice electricty plan
+pillars = build ice pillars
+ceiling = built ice celing
+tiles = built ice tiles
+plaster = built ice plaster
+paint = built ice paint
+furniture = built ice furniture
