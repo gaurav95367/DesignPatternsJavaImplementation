@@ -1,0 +1,3 @@
+interface ICanbeColnned {
+    ICanbeColnned deepClone();
+}
