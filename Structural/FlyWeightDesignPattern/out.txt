@@ -1,0 +1,4 @@
+mymap size = 0
+mymap size = 1
+mymap size = 1
+mymap size = 2
